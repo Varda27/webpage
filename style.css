@@ -1,0 +1,33 @@
+h1{
+    font-style: italic;
+    color: rgb(1, 1, 14);
+   
+}
+img{
+    width: 250px;
+    height: 250px;
+    padding-left: 20scm;
+  
+}
+header{
+    background-color: aqua;
+}
+
+h3{
+   font-weight: 400;
+    font-size:large;
+    
+}
+
+p{
+    display: inline;
+  font-size: large ;
+}
+
+section{
+    background-color: aqua;
+}
+
+footer{
+   
+}
